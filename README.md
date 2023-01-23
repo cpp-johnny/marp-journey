@@ -18,3 +18,5 @@ It's deployed on google sites because I can't get Vercel to work lol and gsite i
 
 ## How do you create the same thing like this?
 You can download the Marp extension on VS Code, and find tutorials for Marp. 
+
+Make sure you have a browser installed on your codinf environment!! If you're on PLD like me :skull: remember to enable dev mode and run `$ sudo apt install chromium` or whatever browser you want
